@@ -18,11 +18,6 @@ Una vez que el usuario inicia sesión, el programa muestra un mensaje de bienven
 + Al finalizar la sesión, la aplicación muestra un mensaje de despedida y redirige a la pantalla de inicio de sesión con los campos del formulario vacíos y listos para ser usados nuevamente.
 
 
-### Autor
-- Github - [@dxeazi](https://github.com) (antes "@tercodiablo")
-- Front-End Mentor - [@tercodiablo](https://frontendmentor.io)
-
-
 ### Construido con
 
 - REACT
@@ -31,13 +26,6 @@ Una vez que el usuario inicia sesión, el programa muestra un mensaje de bienven
 
 ## Ejemplo en vivo
 
-Github: https://github.comnaiat-app211    --tooltips y corrección de algunos errores (bugs)
-
-CodeSandBox: https://codesandbox.io  --primera versión
-
-## Contrataciones y contacto
-
-Correo electrónico: dxeazi@proton.me
 
 ## Notas
 
@@ -45,7 +33,7 @@ Los datos como nombre y apellido, cambios de PIN, compra y venta de acciones, de
 
 El proyecto está hecho únicamente para la versión web; la versión móvil aún está en desarrollo.
 
-Para acceder, por favor utiliza los siguientes datos-->
+Para acceder, y probarlo por favor utiliza los siguientes datos-->
 Usuario: "naiat"
 PIN: "1932"
 
@@ -83,26 +71,11 @@ Once the user is logged, the program displays a welcome message and you can clic
 + At the end of the session, the app displays a farewell message and redirects to the login screen with the form fields cleared and ready to be used once again.
 
 
-### Author
-- Github - [@dxeazi](https://github.com) (before "@tercodiablo")
-- Front-End Mentor - [@tercodiablo](https://frontendmentor.io)
-
-
 ### Built with
 
 - REACT
 - CSS 
 - Flexbox
-
-## Live example
-
-Github: https://github.comnaiat-app211    --tooltips and fixed some bugs
-
-CodeSandBox: https://codesandbox.io  --first version
-
-## Hiring and contact me
-
-Email: dxeazi@proton.me
 
 ## Notes
 
@@ -110,7 +83,7 @@ Data such as first and last name, PIN changes, purchase and sale of shares, depo
 
 The project is made for web version only, the mobile version is still under development.
 
-To access, please use the following data-->
+To access and try, please use the following data-->
 Username: "naiat". 
 PIN: "1932"
 
