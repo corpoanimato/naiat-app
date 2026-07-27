@@ -24,8 +24,6 @@ Una vez que el usuario inicia sesión, el programa muestra un mensaje de bienven
 - CSS 
 - Flexbox
 
-## Ejemplo en vivo
-
 
 ## Notas
 
