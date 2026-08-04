@@ -1,8 +1,11 @@
-# NaiatApex
+## app NaiatApex
 
-Idioma / Language: **Español** | [English (#english-version)](#english-version)
+Version readme en **Español** | [English (#english-version)](#english-version)
 
----
+> Preview de la aplicacion
+
+<img src="./naiat-apex.gif" width="" height=""/>)
+
 
 ### Descripción
 
